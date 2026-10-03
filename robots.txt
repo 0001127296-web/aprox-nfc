@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aproxima-nfc-v2.vercel.app/sitemap.xml
